@@ -4,7 +4,7 @@
 | Addons  |**ایڈ اون**|
 | API  |**API**|
 |Auto|**خودبخود**|
-|Autoscroll  |**خودبخود سکرال|
+|Autoscroll  |**خودبخود سکرال**|
 |Bookmark  |**بکمارک**|
 |Browsing |**براؤزنگ**|
 |Configurations |**ترتیبات**|
