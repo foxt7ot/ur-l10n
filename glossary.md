@@ -34,11 +34,11 @@
 #### Words(Brand names) to be used as it is:
 | English         | Urdu         
 | ------------- |:-------------:|
-|Android |Android|
-|Firefox |Firefox|
-|Focus |Focus|
-|iOS |iOS|
-|Mozilla |Mozilla|
-|Pocket |Pocket|
-|Rocket |Rocket|
-|Windows|Windows|
+|Android |**Android**|
+|Firefox |**Firefox**|
+|Focus |**Focus**|
+|iOS |**iOS**|
+|Mozilla |**Mozilla**|
+|Pocket |**Pocket**|
+|Rocket |**Rocket**|
+|Windows|**Windows**|
