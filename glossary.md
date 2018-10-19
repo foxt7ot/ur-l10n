@@ -27,7 +27,7 @@ window =>  ونڈو ں
 browsing =>  براؤزنگ
 
 
-Words(Brand names) to be used as it is:
+# Words(Brand names) to be used as it is:
 
 Mozilla => Mozilla
 Firefox => Firefox
