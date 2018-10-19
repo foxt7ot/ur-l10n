@@ -1,6 +1,6 @@
 #### Greetings fellow localizers
 
-Thanks for dropping by here, This repo contains glossaries and guidelines in order to contribute on [Mozilla urdu localization](https://pontoon.mozilla.org/ur/) project.
+Thanks for dropping by here, This repo contains [glossaries](https://github.com/foxt7ot/ur-l10n/blob/master/glossary.md) and [guidelines](https://github.com/foxt7ot/ur-l10n/blob/master/guidelines.md) in order to contribute on [Mozilla urdu localization](https://pontoon.mozilla.org/ur/) project.
 
 ##### Guidelines to contribute on Glossaries
 * Fork a project
