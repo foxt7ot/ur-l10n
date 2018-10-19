@@ -1,42 +1,44 @@
-content => مواد
-settings => ترتیبات
-install =>  انسٹال
-un=>install =>  ان انسٹال
-configurations =>  ترتیبات
-active/enable =>  فعال
-inactive/disable => غیر فعال
-layout =>  لےآؤٹ
-debugger =>  دبگگر
-pop=>up =>  پوپ اپ
-rate => شرح
-addons =>  ایڈ اون
-Auto=>Hide => خودبخود
-toolbar => ٹولبار
-system =>  سسٹم
-bookmark => بکمارک
-Extension =>  ایکسٹینشن
-Section => صیغہ
-Editor =>   ایڈیٹر        
-save => محفوظ
-location => mojuda muqam
-folder =>  فولڈر
-file =>  فائل
-autoscroll => خودبخود سکرال
-enduser => صارف
-window =>  ونڈو ں
-browsing =>  براؤزنگ
+| English         | Urdu         |Context/Comments
+| ------------- |:-------------:|:-------------:|
+| Active/Enable |فعال|
+| Addons  |ایڈ اون|
+| API  |API|
+|Auto|خودبخود|
+|Autoscroll  |خودبخود سکرال|
+|Bookmark  |بکمارک|
+|Browsing |براؤزنگ|
+|Configurations |ترتیبات|
+|Content |مواد|
+|Debugger |ڈبگگر|
+|Editor |ایڈیٹر|
+|Enduser |صارف|
+|Extension |ایکسٹینشن|
+|File |فائل|
+|Folder |فولڈر|
+|Inactive/Disable |غیر فعال|
+|Install |انسٹال|
+|Layout |لےآؤٹ|
+|Location |mojuda muqam|
+|Pop up|پوپ اپ|
+|Rate |شرح|
+|Save |محفوظ|
+|Section |صیغہ|
+|Settings |ترتیبات|
+|System |سسٹم|
+|Toolbar |ٹولبار|
+|URI|URI|
+|URL|URL|
+|Window |ونڈوں|
 
 
-# Words(Brand names) to be used as it is:
-
-Mozilla => Mozilla
-Firefox => Firefox
-Windows => Windows
-Android => Android
-Pocket => Pocket
-iOS => iOS
-API => API
-URI => URI
-URL => URL
-Rocket => Rocket
-Focus => Focus
+#### Words(Brand names) to be used as it is:
+| English         | Urdu         
+| ------------- |:-------------:|
+|Android |Android|
+|Firefox |Firefox|
+|Focus |Focus|
+|iOS |iOS|
+|Mozilla |Mozilla|
+|Pocket |Pocket|
+|Rocket |Rocket|
+|Windows|Windows|
