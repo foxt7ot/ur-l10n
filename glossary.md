@@ -20,6 +20,7 @@
 |Install |**انسٹال**|
 |Layout |**لےآؤٹ**|
 |Location |**موجودہ مقام**|
+|online |**آن لائن**|
 |Pop up|**پوپ اپ**|
 |Rate |**شرح**|
 |Save |**محفوظ**|
@@ -27,6 +28,7 @@
 |Settings |**ترتیبات**|
 |System |**سسٹم**|
 |Toolbar |**ٹولبار**|
+|Tracker/Trackers |**ٹریکر**|
 |URI|**URI**|
 |URL|**URL**|
 |Window |**ونڈوں**|
