@@ -15,6 +15,7 @@
 |Extension |**ایکسٹینشن**|
 |File |**فائل**|
 |Folder |**فولڈر**|
+|HTTP/HTTPS|**HTTP/HTTPS**|
 |Inactive/Disable |**غیر فعال**|
 |Install |**انسٹال**|
 |Layout |**لےآؤٹ**|
