@@ -18,7 +18,7 @@
 |Inactive/Disable |**غیر فعال**|
 |Install |**انسٹال**|
 |Layout |**لےآؤٹ**|
-|Location |**mojuda muqam**|
+|Location |**موجودہ مقام**|
 |Pop up|**پوپ اپ**|
 |Rate |**شرح**|
 |Save |**محفوظ**|
