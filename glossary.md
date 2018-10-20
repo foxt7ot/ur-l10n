@@ -2,9 +2,11 @@
 | ------------- |:-------------:|:-------------:|
 | Active/Enable |**فعال**|
 | Addons  |**ایڈ اون**|
+|Advertisement/Ads|**اشتہار**|
 | API  |**API**|
 |Auto|**خودبخود**|
 |Autoscroll  |**خودبخود سکرال**|
+|Block|**روکیں**|
 |Bookmark  |**بکمارک**|
 |Browsing |**براؤزنگ**|
 |Configurations |**ترتیبات**|
@@ -13,6 +15,7 @@
 |Editor |**ایڈیٹر**|
 |Enduser |**صارف**|
 |Extension |**ایکسٹینشن**|
+|Feature|**خصوصیات**|
 |File |**فائل**|
 |Folder |**فولڈر**|
 |HTTP/HTTPS|**HTTP/HTTPS**|
@@ -27,6 +30,7 @@
 |Section |**صیغہ**|
 |Settings |**ترتیبات**|
 |System |**سسٹم**|
+|Theme|**تھیم**|
 |Toolbar |**ٹولبار**|
 |Tracker/Trackers |**ٹریکر**|
 |URI|**URI**|
