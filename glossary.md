@@ -22,6 +22,7 @@
 |Inactive/Disable |**غیر فعال**|
 |Install |**انسٹال**|
 |Layout |**لےآؤٹ**|
+|Manage |**منظم**|
 |Location |**موجودہ مقام**|
 |Online |**آن لائن**|
 |Pop up|**پوپ اپ**|
