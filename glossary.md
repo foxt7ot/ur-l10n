@@ -35,7 +35,7 @@
 |Tracker/Trackers |**ٹریکر**|
 |URI|**URI**|
 |URL|**URL**|
-|Window |**ونڈوں**|
+|Window |**ونڈوں**|Relevant to browser window not OS|
 
 
 #### Words(Brand names) to be used as it is:
