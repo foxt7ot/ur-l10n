@@ -43,6 +43,7 @@
 | ------------- |:-------------:|
 |Android |**Android**|
 |Firefox |**Firefox**|
+|Flash |**Flash**|
 |Focus |**Focus**|
 |iOS |**iOS**|
 |Mozilla |**Mozilla**|
