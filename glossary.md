@@ -17,6 +17,7 @@
 |Extension |**ایکسٹینشن**|
 |Feature|**خصوصیات**|
 |File |**فائل**|
+|Flash plugin|**پلگ ان Flash**|
 |Folder |**فولڈر**|
 |HTTP/HTTPS|**HTTP/HTTPS**|
 |Inactive/Disable |**غیر فعال**|
